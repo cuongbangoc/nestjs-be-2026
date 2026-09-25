@@ -11,3 +11,5 @@ const salary: number = emp.calculateSalary(50);
 console.log(salary);
 
 console.log('Add more signup file');
+
+console.log('Hotfix');
